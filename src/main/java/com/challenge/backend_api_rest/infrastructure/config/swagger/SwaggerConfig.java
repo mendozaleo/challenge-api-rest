@@ -34,7 +34,7 @@ public class SwaggerConfig {
                                                                 .url("http://www.apache.org/licenses/LICENSE-2.0.html")))
                                 .servers(List.of(
                                                 
-                                                new Server().url("http://localhost:8085")
+                                                new Server().url("http://localhost:8087")
                                                                 .description("Servidor de Desarrollo")));
         }
 }
